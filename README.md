@@ -1,4 +1,4 @@
-![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/3d012ba0-35a6-4f7c-9de4-b109f1e09ac3)# GODREJ_PROPERTIES_House_Price_Prediction
+# GODREJ_PROPERTIES_House_Price_Prediction
 Tools used: Power BI, Excel, Visual Studio Code
 
 ## Problem Statement
@@ -86,7 +86,7 @@ Tools used: Power BI, Excel, Visual Studio Code
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/fdadf36b-fae1-44ea-a1d5-18523545e5f6)
 
-### Model Prediction
+## Model Prediction
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/285d7eb7-ad0a-4513-820f-3fcc2e39c991)
 
@@ -104,7 +104,7 @@ Tools used: Power BI, Excel, Visual Studio Code
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/342949df-3614-4167-8829-efaf40d829ba)
 
-### Suggestion
+## Suggestion
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/3c74b8ae-77ec-4cdf-88cc-e48771847d65)
 
