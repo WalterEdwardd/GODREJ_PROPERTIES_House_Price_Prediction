@@ -10,9 +10,9 @@ Tools used: Power BI, Excel, Visual Studio Code
 3.	To analyze and compare models performance in order to choose the best model.
 
 ### Report: Insights and Key Findings
-![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/0ce03998-eba3-4b32-a2f2-054df6609cff)
-
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/d7370361-a6f9-419b-bbca-8e849e36d8c7)
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/0ce03998-eba3-4b32-a2f2-054df6609cff)
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/e33e0785-b214-4891-a952-321a846b6b38)
 
