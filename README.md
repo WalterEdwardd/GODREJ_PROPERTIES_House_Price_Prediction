@@ -10,20 +10,22 @@ Tools used: Power BI, Excel, Visual Studio Code
 3.	To analyze and compare models performance in order to choose the best model.
 
 ## Report:
-### Introduce about the Company:
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/d7370361-a6f9-419b-bbca-8e849e36d8c7)
 
+### Introduce about the Company:
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/0ce03998-eba3-4b32-a2f2-054df6609cff)
 
 ### Table of Contents:
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/e33e0785-b214-4891-a952-321a846b6b38)
 
-![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/42fdd387-d972-483a-9b9c-5be156edfa1d)
-
+### Preparation
+#### Problem Statement
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/b83af6f2-71d8-4bc8-9573-3ed576fb157f)
 
+#### Goal of the Study
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/165da5b6-4949-4fd3-93ff-b759fe8e3be0)
 
+#### Data Understand
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/27d5da00-962a-4de7-add5-055c9a2239b1)
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/e5051d75-da19-4edd-a59c-6e3157d00b11)
