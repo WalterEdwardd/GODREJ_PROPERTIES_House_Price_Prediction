@@ -9,13 +9,13 @@ Tools used: Power BI, Excel, Visual Studio Code
 2.	To build machine learning models able to predict house price based on house features.
 3.	To analyze and compare models performance in order to choose the best model.
 
-## Report:
+## Report
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/d7370361-a6f9-419b-bbca-8e849e36d8c7)
 
-### Introduce about the Company:
+### Introduce about the Company
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/0ce03998-eba3-4b32-a2f2-054df6609cff)
 
-### Table of Contents:
+### Table of Contents
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/e33e0785-b214-4891-a952-321a846b6b38)
 
 ### Preparation
@@ -28,6 +28,7 @@ Tools used: Power BI, Excel, Visual Studio Code
 #### Data Understand
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/27d5da00-962a-4de7-add5-055c9a2239b1)
 
+#### Data Processing
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/e5051d75-da19-4edd-a59c-6e3157d00b11)
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/ec8d5c98-2117-4c6a-8da5-19341ad5cd09)
