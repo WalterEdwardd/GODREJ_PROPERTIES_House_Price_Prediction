@@ -64,6 +64,7 @@ Tools used: Power BI, Excel, Visual Studio Code
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/77f5ae63-c7a4-459d-b208-cb7039d5fd87)
 
+### Data Exploration
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/09582612-5f0c-4726-a033-f9fcf8d48ff3)
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/7eff220b-b221-4b54-b891-ae98e82971ac)
