@@ -1,4 +1,4 @@
-# GODREJ_PROPERTIES_House_Price_Prediction
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/3d012ba0-35a6-4f7c-9de4-b109f1e09ac3)# GODREJ_PROPERTIES_House_Price_Prediction
 Tools used: Power BI, Excel, Visual Studio Code
 
 ## Problem Statement
@@ -60,17 +60,54 @@ Tools used: Power BI, Excel, Visual Studio Code
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/09582612-5f0c-4726-a033-f9fcf8d48ff3)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/7eff220b-b221-4b54-b891-ae98e82971ac)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/7efe55af-6b9d-4833-92e5-2eafc295f4ee)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/2eda5b04-b6bd-4cf3-8fd6-b7c45df902c2)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/3b10dcd1-9d81-4086-b64d-5fdeb4c3d47f)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/6cad185a-f021-4644-a469-febbdb63e9a2)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/67b34dd5-ac1f-459a-8903-f790c4610508)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/3a314c4c-c29e-400b-b76f-ea77b2aab863)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/1353b8fe-986d-45e5-b42d-c34d289e9217)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/6614c5f6-899c-4b1a-a454-f5531dd5b2d0)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/7572d909-4c48-4bae-b15a-be1ae566dd06)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/c3063343-36cf-40ce-b715-386d7eaf1b67)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/0b839724-2614-4303-a788-73c19f17a9b7)
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/fdadf36b-fae1-44ea-a1d5-18523545e5f6)
 
+### Model Prediction
 
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/285d7eb7-ad0a-4513-820f-3fcc2e39c991)
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/354fff0d-ea9f-41fa-a289-7cf70d01b2f7)
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/211b039a-a502-4ffc-a57e-4f422b969d4c)
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/03f26784-bdfa-404a-b5cc-2560d6d4f317)
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/c4d9d1b1-c15d-42ef-97f2-155a27484c48)
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/bf46b36a-5d6b-401c-87fb-8853f34e8a8b)
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/d40018e4-8ef4-436e-9ef6-424235058234)
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/342949df-3614-4167-8829-efaf40d829ba)
+
+### Suggestion
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/3c74b8ae-77ec-4cdf-88cc-e48771847d65)
+
+![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/fa0e1b83-1c63-4412-a39e-86cade9f48af)
+
+### End!
