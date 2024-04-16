@@ -65,6 +65,7 @@ Tools used: Power BI, Excel, Visual Studio Code
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/77f5ae63-c7a4-459d-b208-cb7039d5fd87)
 
 ### Data Exploration
+#### Univariate Analysis
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/7eff220b-b221-4b54-b891-ae98e82971ac)
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/7efe55af-6b9d-4833-92e5-2eafc295f4ee)
@@ -79,6 +80,7 @@ Tools used: Power BI, Excel, Visual Studio Code
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/3a314c4c-c29e-400b-b76f-ea77b2aab863)
 
+#### Bivariate Analysis
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/1353b8fe-986d-45e5-b42d-c34d289e9217)
 
 ![image](https://github.com/WalterEdwardd/GODREJ_PROPERTIES_House_Price_Prediction/assets/128374617/6614c5f6-899c-4b1a-a454-f5531dd5b2d0)
